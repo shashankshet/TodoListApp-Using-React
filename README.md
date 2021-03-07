@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Todo list App using React
 
 ## Available Scripts
 
